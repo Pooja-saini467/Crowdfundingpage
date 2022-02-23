@@ -19,7 +19,10 @@
 
 ## Demo
 
-https://user-images.githubusercontent.com/90523453/155383903-53e35995-c280-41ef-9bc4-c0dd9b9a4d6b.mp4
+
+
+https://user-images.githubusercontent.com/90523453/155384242-bcd3a0a8-3c66-4b02-a8ab-e5572509bb0a.mp4
+
 
 ## Live Link
 - Pooja-saini467(https://kimnamjoon123.github.io/Crowdfundingpage/)
