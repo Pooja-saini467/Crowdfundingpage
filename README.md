@@ -6,7 +6,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,11 +19,9 @@
 
 ## Demo
 
- 
-
+https://user-images.githubusercontent.com/90523453/155383903-53e35995-c280-41ef-9bc4-c0dd9b9a4d6b.mp4
 
 ## Live Link
-- Live Url
 - Pooja-saini467(https://kimnamjoon123.github.io/Crowdfundingpage/)
 
 
